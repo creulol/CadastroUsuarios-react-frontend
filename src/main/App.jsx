@@ -12,7 +12,7 @@ export default props =>
     <div className="app">
         <Logo></Logo>
         <Nav></Nav>
-        <Main icon="home" title="Início"
-            subtitle="Voltar para a tela inicial."></Main>
+        <Main icon="home" title="Home"
+            subtitle="Return to the home screen."></Main>
         <Footer></Footer>
     </div>
